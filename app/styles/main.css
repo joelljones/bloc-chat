@@ -1,0 +1,18 @@
+html {
+  margin-top: -25px;
+}
+
+.sidebar {
+  width: 300px;
+  height: 100vh;
+  background-color: #dedede;
+}
+
+.sidebar-header {
+  display: inline-block;
+}
+
+.sidebar-title {
+  margin: 25px 25px 0 25px;
+
+}

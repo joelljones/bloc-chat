@@ -1,16 +1,16 @@
 {
-  "name": "bloc-frontend-project-starter",
-  "version": "0.0.3",
-  "description": "Starter project for the Bloc Frontend Web Development",
+  "name": "bloc-chat",
+  "version": "1.0.0",
+  "description": "A real-time chat client",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bloc/bloc-frontend-project-starter"
+    "url": "https://github.com/joelljones/bloc-chat"
   },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Bloc Inc",
+  "author": "Joell Jones",
   "license": "ISC",
   "dependencies": {
     "hapi": "~7.5.0",
