@@ -1,10 +1,9 @@
 {
   "name": "bloc-chat",
-  "version": "1.0.0",
   "description": "A real-time chat client",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joelljones/bloc-chat"
+    "url": "git+https://github.com/joelljones/bloc-chat.git"
   },
   "main": "server.js",
   "scripts": {
@@ -19,5 +18,16 @@
   "devDependencies": {
     "connect-modrewrite": "^0.7.9",
     "es5-shim": "^4.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/joelljones/bloc-chat/issues"
+  },
+  "homepage": "https://github.com/joelljones/bloc-chat#readme",
+  "keywords": [
+    "bloc",
+    "chat"
+  ],
+  "engines": {
+    "node": "9.0.0"
   }
 }
